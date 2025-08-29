@@ -6,6 +6,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
 ## Hash Table
@@ -15,5 +16,10 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
