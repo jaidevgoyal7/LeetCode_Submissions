@@ -43,9 +43,14 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
