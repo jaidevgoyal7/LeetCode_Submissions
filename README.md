@@ -6,6 +6,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -41,6 +42,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
