@@ -8,6 +8,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
@@ -53,4 +54,8 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
