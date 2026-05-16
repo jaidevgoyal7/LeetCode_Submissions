@@ -11,6 +11,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
@@ -18,6 +19,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
 ## Dynamic Programming
@@ -37,6 +39,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
@@ -46,6 +49,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -60,9 +64,11 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
