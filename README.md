@@ -7,6 +7,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
@@ -41,6 +42,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
@@ -77,4 +79,5 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
