@@ -12,6 +12,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -85,4 +87,8 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0015-3sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0018-4sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
