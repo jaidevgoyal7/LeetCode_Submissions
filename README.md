@@ -39,6 +39,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
@@ -107,9 +108,11 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0077-combinations](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
