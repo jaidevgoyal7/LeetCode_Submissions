@@ -82,11 +82,13 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
@@ -114,5 +116,10 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
