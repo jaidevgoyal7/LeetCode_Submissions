@@ -11,7 +11,7 @@ class Solution {
     }
 
     public int recursive(int row, int col, int[][] grid, boolean[][] visited){
-        int maxneighbourLand = 0;
+        int neighbourLand = 0;
         
         if(row >= grid.length || col >= grid[0].length || row < 0 || col < 0 || visited[row][col] || grid[row][col] == 0){
             return 0;
@@ -25,8 +25,8 @@ class Solution {
         for(int d = 0; d < 4; d++){
             int newrow = row + rowdir[d];
             int newcol = col + coldir[d];
-            maxneighbourLand = recursive(newrow, newcol, grid, visited) + maxneighbourLand;
+            neighbourLand = recursive(newrow, newcol, grid, visited) + neighbourLand;
         }
-        return maxneighbourLand + grid[row][col];
+        return neighbourLand + grid[row][col];
     }
 }
