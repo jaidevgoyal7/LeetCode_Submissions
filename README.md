@@ -28,6 +28,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
+| [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 ## String
 |  |
 | ------- |
@@ -135,4 +137,5 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
+| [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
