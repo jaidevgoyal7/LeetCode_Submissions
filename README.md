@@ -28,6 +28,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 ## Hash Table
@@ -140,11 +141,13 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
