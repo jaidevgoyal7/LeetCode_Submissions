@@ -17,6 +17,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
@@ -111,6 +112,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0047-permutations-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
@@ -119,9 +121,18 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
