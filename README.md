@@ -119,6 +119,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 ## String
 |  |
@@ -127,6 +128,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -152,4 +155,12 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
