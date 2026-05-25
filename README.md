@@ -33,6 +33,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,4 +181,8 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
