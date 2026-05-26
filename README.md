@@ -146,6 +146,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 ## Matrix
@@ -158,6 +159,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -167,10 +169,12 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
