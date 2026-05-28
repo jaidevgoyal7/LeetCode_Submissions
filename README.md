@@ -153,6 +153,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -181,6 +182,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,6 +192,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
