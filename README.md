@@ -92,6 +92,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -138,6 +139,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
