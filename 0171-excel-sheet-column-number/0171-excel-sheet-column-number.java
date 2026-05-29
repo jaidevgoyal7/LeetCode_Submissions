@@ -6,7 +6,6 @@ class Solution {
             int val = columnTitle.charAt(i) - 'A' + 1;
             result *= 26;
             result += val;
-            System.out.println(result);
         }
         return result;
     }
