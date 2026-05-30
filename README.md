@@ -150,6 +150,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
@@ -168,6 +169,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
@@ -179,6 +181,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
@@ -189,6 +192,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
