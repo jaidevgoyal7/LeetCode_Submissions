@@ -154,6 +154,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0110-balanced-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
@@ -172,6 +173,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0100-same-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -186,6 +188,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0110-balanced-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
@@ -198,6 +201,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0110-balanced-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
