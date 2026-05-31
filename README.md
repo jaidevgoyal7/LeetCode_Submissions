@@ -200,6 +200,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +217,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0437-path-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -229,4 +231,8 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
