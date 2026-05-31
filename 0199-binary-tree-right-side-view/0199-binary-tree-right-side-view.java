@@ -22,14 +22,12 @@ class Solution {
 
     public void bfs(TreeNode root, List<Integer> result) {
         Queue<TreeNode> q = new LinkedList<>();
-        Map<Integer, Integer> tmp = new HashMap<>();
 
         if (root == null) {
             return;
         }
 
         q.add(root);
-        int level = 1;
 
         while (!q.isEmpty()) {
             int size = q.size();
@@ -41,12 +39,10 @@ class Solution {
                 if(node.left != null){
                     q.add(node.left);
                 }
-                if(!tmp.containsKey(level)){
-                    tmp.put(level, node.val);
+                if(i == 0){
                     result.add(node.val);
                 }
             }
-            level++;
         }
     }
 }
