@@ -17,8 +17,6 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         List<Integer> current = new ArrayList<>();
         dfs(root, current);
-        
-        Collections.sort(current);
         return current.get(k-1);
     }
 
@@ -26,8 +24,8 @@ class Solution {
         if(root == null){
             return;
         }
-        current.add(root.val);
         dfs(root.left, current);
+        current.add(root.val);
         dfs(root.right, current);
     }
 }
