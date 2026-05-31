@@ -16,19 +16,37 @@
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        int depth = 0;
-        dfs(root, depth, result);
+        bfs(root, result);
         return result;
     }
 
-    public void dfs(TreeNode root, int depth, List<Integer> result){
-        if(root == null){
+    public void bfs(TreeNode root, List<Integer> result) {
+        Queue<TreeNode> q = new LinkedList<>();
+        Map<Integer, Integer> tmp = new HashMap<>();
+
+        if (root == null) {
             return;
         }
-        if(depth == result.size()){
-            result.add(root.val);
+
+        q.add(root);
+        int level = 1;
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.remove();
+                if (node.right != null) {
+                    q.add(node.right);
+                }
+                if(node.left != null){
+                    q.add(node.left);
+                }
+                if(!tmp.containsKey(level)){
+                    tmp.put(level, node.val);
+                    result.add(node.val);
+                }
+            }
+            level++;
         }
-        dfs(root.right, depth+1, result);
-        dfs(root.left, depth+1, result);
     }
 }
