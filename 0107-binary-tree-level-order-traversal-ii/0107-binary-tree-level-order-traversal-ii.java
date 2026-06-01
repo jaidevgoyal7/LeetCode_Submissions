@@ -28,11 +28,12 @@ class Solution {
         }
 
         Queue<TreeNode> q = new LinkedList<>();
-        List<Integer> current = new ArrayList<>();
+        
 
         q.add(root);
         while (!q.isEmpty()) {
             int q_size = q.size();
+            List<Integer> current = new ArrayList<>();
 
             for (int i = 0; i < q_size; i++) {
                 TreeNode node = q.remove();
@@ -45,10 +46,11 @@ class Solution {
                 }
             }
             if (!current.isEmpty()) {
-                result.add(new ArrayList<>(current));
-                current.clear();
+                // result.add(new ArrayList<>(current)); // Insert at the end
+                result.add(0, new ArrayList<>(current)); // Insert at the begining
+                // current.clear(); // No need as we reintialized it
             }
         }
-        Collections.reverse(result);
+        // Collections.reverse(result); // Don't need if added it in the begining
     }
 }
