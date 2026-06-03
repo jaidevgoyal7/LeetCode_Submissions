@@ -256,4 +256,12 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0098-validate-binary-search-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
