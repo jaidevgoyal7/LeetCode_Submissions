@@ -36,6 +36,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
+| [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0047-permutations-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Counting
 |  |
 | ------- |
@@ -114,6 +117,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +144,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## String
 |  |
 | ------- |
@@ -249,6 +254,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Brainteaser
 |  |
 | ------- |
@@ -267,4 +273,8 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->
