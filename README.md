@@ -23,6 +23,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0454-4sum-ii) |
@@ -172,6 +173,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
@@ -183,6 +185,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
@@ -196,12 +199,14 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
