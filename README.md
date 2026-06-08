@@ -21,6 +21,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
@@ -172,6 +173,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0110-balanced-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0113-path-sum-ii) |
+| [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -185,6 +187,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
@@ -198,6 +201,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -206,6 +210,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 ## Tree
