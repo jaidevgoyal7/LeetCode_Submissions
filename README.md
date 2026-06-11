@@ -189,6 +189,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0637-average-of-levels-in-binary-tree](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -219,12 +220,14 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
 | ------- |
@@ -301,4 +304,8 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
