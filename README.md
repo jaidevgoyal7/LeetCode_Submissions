@@ -36,6 +36,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0733-flood-fill](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0733-flood-fill) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0997-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -52,6 +53,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0454-4sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0454-4sum-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
+| [0997-find-the-town-judge](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0997-find-the-town-judge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,5 +316,6 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
