@@ -12,6 +12,7 @@ class Solution {
         int target = graph.length - 1;
         if(source == target){
             result.add(new ArrayList<>(current));
+            return;
         }
         for(int neighbour : graph[source]){
             current.add(neighbour);
