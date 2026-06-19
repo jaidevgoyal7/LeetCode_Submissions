@@ -33,6 +33,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0733-flood-fill) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0994-rotting-oranges) |
@@ -96,6 +97,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0069-sqrtx](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
