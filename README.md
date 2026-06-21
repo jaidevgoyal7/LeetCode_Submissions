@@ -44,6 +44,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [1219-path-with-maximum-gold](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Hash Table
@@ -87,6 +88,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0047-permutations-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Counting
 |  |
@@ -103,6 +105,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0278-first-bad-version](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
