@@ -324,6 +324,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
