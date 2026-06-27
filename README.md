@@ -75,6 +75,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +134,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
