@@ -6,6 +6,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0018-4sum) |
@@ -145,6 +146,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0018-4sum) |
@@ -336,6 +338,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [2708-maximum-strength-of-a-group](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/2708-maximum-strength-of-a-group) |
 ## Graph Theory
 |  |
