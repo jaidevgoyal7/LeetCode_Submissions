@@ -13,6 +13,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0031-next-permutation](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0046-permutations) |
@@ -54,6 +55,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0133-clone-graph) |
@@ -222,6 +224,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0200-number-of-islands) |
