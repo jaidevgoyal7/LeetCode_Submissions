@@ -18,6 +18,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0040-combination-sum-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -127,6 +128,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0069-sqrtx) |
@@ -227,6 +229,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
