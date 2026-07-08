@@ -20,6 +20,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | [0047-permutations-ii](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0078-subsets) |
@@ -195,6 +196,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0067-add-binary) |
 ## Depth-First Search
 |  |
@@ -230,6 +232,7 @@ All the LeetCode questions have submitted after - 28/08/2025
 | ------- |
 | [0036-valid-sudoku](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jaidevgoyal7/LeetCode_Submissions/tree/master/0130-surrounded-regions) |
